@@ -1,0 +1,6 @@
+{
+  "name": "Serrurerie Express",
+  "description": "Serrurier professionnel à Marseille (13001). Solutions pour portes et serrures, sécurisation des accès et conseil en sécurité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
